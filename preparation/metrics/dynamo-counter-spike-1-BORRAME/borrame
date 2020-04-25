@@ -1,0 +1,25 @@
+ /* var params = {
+    Item: {
+     "pictureId": {
+       S: "1234"
+      }
+    }, 
+    ReturnConsumedCapacity: "TOTAL", 
+    TableName: "metrics"
+   };*/
+
+ /*  var params = {}
+
+   dynamodb.putItem(params, function(err, data) {
+     if (err){
+      console.log(err, err.stack); // an error occurred
+      console.log("hasta aqui hemos llegado CON ERROR")
+     } 
+     else     console.log(data);           // successful response
+        console.log("hasta aqui hemos llegado")
+   });
+
+   yield sleep(2000);
+*/
+
+
