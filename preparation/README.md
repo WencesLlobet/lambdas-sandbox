@@ -31,12 +31,24 @@ use the api !
 
 
 
+# Spike 3
+
+## Goal: assert posted image on instagram though its Api  
+	20:00 - 20:15 -- look at cipress if it is not possible
+	RESULT: FAIL but  lirantal/cypress-social-logins
+
+## Goal: create email account and assert its content
+	20:20 - 20:35 -- google cli email account 
+	SUCCESS !
 
 
+# Spike 4 
+
+## Goal: output page content after login in social media
+
+	20:45: 21:05 -- 
 
 
-
-- Enable the dynamo db stats service test
 
 
 
